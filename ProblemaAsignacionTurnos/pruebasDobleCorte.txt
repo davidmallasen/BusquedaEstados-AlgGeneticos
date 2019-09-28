@@ -1,0 +1,643 @@
+configuracionConvocatoria1.txt
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 1.0, 1, false
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 1.0, 1, true
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 1.0, 2, false
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 1.0, 2, true
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.9, 1, false
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.9, 1, true
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.9, 2, false
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.9, 2, true
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.8, 1, false
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.8, 1, true
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.8, 2, false
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.8, 2, true
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.7000000000000001, 1, false
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.7000000000000001, 1, true
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.7000000000000001, 2, false
+100.0
+50
+100.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 1000, 0.7000000000000001, 2, true
+100.0
+50
+100.0
+0.0
+0.0
+configuracionConvocatoria2.txt
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 1.0, 1, false
+90.0
+0
+86.2125
+10.951718749999996
+3.309338113581022
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 1.0, 1, true
+90.0
+0
+86.375
+9.515625
+3.0847406698132667
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 1.0, 2, false
+90.0
+0
+89.3125
+3.82421875
+1.9555609808952519
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 1.0, 2, true
+90.0
+0
+86.2375
+14.171718749999991
+3.764534333752316
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.9, 1, false
+90.0
+0
+86.375
+11.078125
+3.328381738923587
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.9, 1, true
+90.0
+0
+86.875
+10.546875
+3.247595264191645
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.9, 2, false
+90.0
+0
+89.3125
+3.82421875
+1.9555609808952519
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.9, 2, true
+90.0
+0
+86.5
+9.625
+3.1024184114977142
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.8, 1, false
+90.0
+0
+86.75
+9.75
+3.122498999199199
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.8, 1, true
+90.0
+0
+87.0625
+9.73046875
+3.119369928366945
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.8, 2, false
+90.0
+0
+89.625
+2.203125
+1.4842927608797396
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.8, 2, true
+90.0
+0
+86.9
+10.140000000000004
+3.1843366656181322
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.7000000000000001, 1, false
+90.0
+0
+86.0625
+9.10546875
+3.0175269261433275
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.7000000000000001, 1, true
+90.0
+0
+86.3125
+10.23046875
+3.1985103954809966
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.7000000000000001, 2, false
+90.0
+0
+89.5
+2.875
+1.695582495781317
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.7000000000000001, 2, true
+90.0
+0
+86.525
+10.018125000000005
+3.1651421769013797
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 1.0, 1, false
+90.0
+0
+86.5
+9.625
+3.1024184114977142
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 1.0, 1, true
+90.0
+0
+87.25
+9.625
+3.1024184114977142
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 1.0, 2, false
+90.0
+0
+90.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 1.0, 2, true
+90.0
+0
+85.875
+8.765625
+2.9606798205817526
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.9, 1, false
+90.0
+0
+86.625
+9.703125
+3.114983948594278
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.9, 1, true
+90.0
+0
+86.0
+9.0
+3.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.9, 2, false
+90.0
+0
+90.0
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.9, 2, true
+90.0
+0
+86.675
+10.475624999999996
+3.2366070197044303
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.8, 1, false
+90.0
+0
+87.125
+9.703125
+3.114983948594278
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.8, 1, true
+90.0
+0
+86.875
+9.765625
+3.125
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.8, 2, false
+90.0
+0
+89.625
+2.203125
+1.4842927608797396
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.8, 2, true
+90.0
+0
+86.75
+9.75
+3.122498999199199
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.7000000000000001, 1, false
+90.0
+0
+87.875
+8.765625
+2.9606798205817526
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.7000000000000001, 1, true
+90.0
+0
+87.0
+9.75
+3.122498999199199
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.7000000000000001, 2, false
+90.0
+0
+89.875
+0.765625
+0.875
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.7000000000000001, 2, true
+90.0
+0
+87.5
+9.375
+3.0618621784789726
+configuracionConvocatoria3.txt
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 1.0, 1, false
+83.75
+0
+77.8125
+1.85546875
+1.3621559198564606
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 1.0, 1, true
+83.75
+0
+77.4625
+3.732968750000003
+1.9320892189544465
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 1.0, 2, false
+83.75
+0
+79.5625
+8.63671875
+2.9388294863771867
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 1.0, 2, true
+83.75
+0
+78.0625
+3.98046875
+1.995111212439046
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.9, 1, false
+83.75
+0
+78.0
+2.875
+1.695582495781317
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.9, 1, true
+83.75
+0
+77.75
+1.5
+1.224744871391589
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.9, 2, false
+83.75
+0
+80.0625
+9.44921875
+3.0739581568394843
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.9, 2, true
+83.75
+0
+78.0
+2.875
+1.695582495781317
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.8, 1, false
+83.75
+0
+77.65
+3.3212499999999903
+1.822429696860757
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.8, 1, true
+83.75
+0
+77.6875
+1.13671875
+1.0661701318269987
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.8, 2, false
+83.75
+0
+79.5
+8.5
+2.9154759474226504
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.8, 2, true
+83.75
+0
+78.25
+4.125
+2.03100960115899
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.7000000000000001, 1, false
+83.75
+0
+77.875
+2.203125
+1.4842927608797396
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.7000000000000001, 1, true
+83.75
+0
+77.8125
+2.63671875
+1.6237976320958225
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.7000000000000001, 2, false
+83.75
+0
+79.4375
+8.35546875
+2.8905827699617945
+
+TurnosCFI GeneticAlgorithm Statistics -->
+100, 1000, 0.7000000000000001, 2, true
+83.75
+0
+77.6875
+1.13671875
+1.0661701318269987
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 1.0, 1, false
+83.75
+0
+78.125
+5.078125
+2.2534695471649933
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 1.0, 1, true
+83.75
+0
+77.75
+1.5
+1.224744871391589
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 1.0, 2, false
+83.75
+0
+81.375
+9.203125
+3.033665274877899
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 1.0, 2, true
+83.75
+0
+77.625
+2.328125
+1.5258194519667128
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.9, 1, false
+77.5
+0
+77.5
+0.0
+0.0
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.9, 1, true
+83.75
+0
+77.875
+2.203125
+1.4842927608797396
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.9, 2, false
+83.75
+0
+81.375
+9.203125
+3.033665274877899
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.9, 2, true
+83.75
+0
+77.875
+2.203125
+1.4842927608797396
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.8, 1, false
+83.75
+0
+78.175
+7.013125000000001
+2.6482305413237723
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.8, 1, true
+83.75
+0
+78.5
+5.25
+2.29128784747792
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.8, 2, false
+83.75
+0
+80.5
+9.75
+3.122498999199199
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.8, 2, true
+83.75
+0
+77.625
+0.765625
+0.875
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.7000000000000001, 1, false
+83.75
+0
+77.875
+2.203125
+1.4842927608797396
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.7000000000000001, 1, true
+83.75
+0
+77.75
+1.5
+1.224744871391589
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.7000000000000001, 2, false
+83.75
+0
+80.125
+9.515625
+3.0847406698132667
+
+TurnosCFI GeneticAlgorithm Statistics -->
+50, 5000, 0.7000000000000001, 2, true
+83.75
+0
+77.875
+2.203125
+1.4842927608797396
