@@ -1,0 +1,185 @@
+
+----------------------------------------------
+Jungla de Cristal con parametros:
+Capacidad maxima de la primera garrafa: 3
+Capacidad maxima de la segunda garrafa: 7
+Cantidad objetivo: 1
+----------------------------------------------
+
+GarrafasDemo Anchura TS -->
+Action[name==LlenaG1]
+(0,7)
+Action[name==VierteG1aG0]
+(3,4)
+Action[name==VaciaG0]
+(0,4)
+Action[name==VierteG1aG0]
+(3,1)
+
+Info:
+......
+pathCost : 4.0
+nodesExpanded : 23
+queueSize : 44
+maxQueueSize : 44
+Time: 8503 microseconds
+-------------------------------
+
+GarrafasDemo Anchura GS -->
+Action[name==LlenaG1]
+(0,7)
+Action[name==VierteG1aG0]
+(3,4)
+Action[name==VaciaG0]
+(0,4)
+Action[name==VierteG1aG0]
+(3,1)
+
+Info:
+......
+pathCost : 4.0
+nodesExpanded : 8
+queueSize : 2
+maxQueueSize : 4
+Time: 809 microseconds
+-------------------------------
+
+GarrafasDemo Profundidad GS -->
+Action[name==LlenaG1]
+(0,7)
+Action[name==VierteG1aG0]
+(3,4)
+Action[name==VaciaG1]
+(3,0)
+Action[name==VierteG0aG1]
+(0,3)
+Action[name==LlenaG0]
+(3,3)
+Action[name==VierteG0aG1]
+(0,6)
+Action[name==LlenaG0]
+(3,6)
+Action[name==VierteG0aG1]
+(2,7)
+Action[name==VaciaG1]
+(2,0)
+Action[name==VierteG0aG1]
+(0,2)
+Action[name==LlenaG0]
+(3,2)
+Action[name==VierteG0aG1]
+(0,5)
+Action[name==LlenaG0]
+(3,5)
+Action[name==VierteG0aG1]
+(1,7)
+Action[name==VaciaG1]
+(1,0)
+Action[name==VierteG0aG1]
+(0,1)
+
+Info:
+......
+pathCost : 16.0
+nodesExpanded : 16
+queueSize : 11
+maxQueueSize : 12
+Time: 1108 microseconds
+-------------------------------
+
+GarrafasDemo Coste Uniforme TS -->
+Action[name==LlenaG1]
+(0,7)
+Action[name==VierteG1aG0]
+(3,4)
+Action[name==VaciaG0]
+(0,4)
+Action[name==VierteG1aG0]
+(3,1)
+
+Info:
+......
+pathCost : 4.0
+nodesExpanded : 8
+queueSize : 1
+maxQueueSize : 5
+Time: 611 microseconds
+-------------------------------
+
+GarrafasDemo Coste Uniforme GS -->
+Action[name==LlenaG1]
+(0,7)
+Action[name==VierteG1aG0]
+(3,4)
+Action[name==VaciaG0]
+(0,4)
+Action[name==VierteG1aG0]
+(3,1)
+
+Info:
+......
+pathCost : 4.0
+nodesExpanded : 8
+queueSize : 1
+maxQueueSize : 5
+Time: 438 microseconds
+-------------------------------
+
+GarrafasDemo Voraz GS -->
+Action[name==LlenaG1]
+(0,7)
+Action[name==VierteG1aG0]
+(3,4)
+Action[name==VaciaG0]
+(0,4)
+Action[name==VierteG1aG0]
+(3,1)
+
+Info:
+......
+pathCost : 4.0
+nodesExpanded : 6
+queueSize : 4
+maxQueueSize : 5
+Time: 400 microseconds
+-------------------------------
+
+GarrafasDemo A* TS -->
+Action[name==LlenaG1]
+(0,7)
+Action[name==VierteG1aG0]
+(3,4)
+Action[name==VaciaG0]
+(0,4)
+Action[name==VierteG1aG0]
+(3,1)
+
+Info:
+......
+pathCost : 4.0
+nodesExpanded : 10
+queueSize : 18
+maxQueueSize : 19
+Time: 555 microseconds
+-------------------------------
+
+GarrafasDemo A* GS -->
+Action[name==LlenaG1]
+(0,7)
+Action[name==VierteG1aG0]
+(3,4)
+Action[name==VaciaG0]
+(0,4)
+Action[name==VierteG1aG0]
+(3,1)
+
+Info:
+......
+pathCost : 4.0
+nodesExpanded : 7
+queueSize : 2
+maxQueueSize : 5
+Time: 340 microseconds
+-------------------------------
+
+Process finished with exit code 0

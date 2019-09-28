@@ -1,0 +1,85 @@
+
+----------------------------------------------
+Jungla de Cristal con parametros:
+Capacidad maxima de la primera garrafa: 3
+Capacidad maxima de la segunda garrafa: 12
+Cantidad objetivo: 1
+----------------------------------------------
+
+GarrafasDemo Anchura TS -->
+
+NO TERMINA!
+-------------------------------
+
+GarrafasDemo Anchura GS -->
+
+Info:
+......
+pathCost : 0
+nodesExpanded : 10
+queueSize : 0
+maxQueueSize : 4
+Time: 5978 microseconds
+-------------------------------
+
+GarrafasDemo Profundidad GS -->
+
+Info:
+......
+pathCost : 0
+nodesExpanded : 10
+queueSize : 0
+maxQueueSize : 8
+Time: 1428 microseconds
+-------------------------------
+
+GarrafasDemo Coste Uniforme TS -->
+
+Info:
+......
+pathCost : 0
+nodesExpanded : 10
+queueSize : 0
+maxQueueSize : 5
+Time: 1402 microseconds
+-------------------------------
+
+GarrafasDemo Coste Uniforme GS -->
+
+Info:
+......
+pathCost : 0
+nodesExpanded : 10
+queueSize : 0
+maxQueueSize : 5
+Time: 861 microseconds
+-------------------------------
+
+GarrafasDemo Voraz GS -->
+
+Info:
+......
+pathCost : 0
+nodesExpanded : 10
+queueSize : 0
+maxQueueSize : 6
+Time: 528 microseconds
+-------------------------------
+
+GarrafasDemo A* TS -->
+
+NO TERMINA!
+-------------------------------
+
+GarrafasDemo A* GS -->
+
+Info:
+......
+pathCost : 0
+nodesExpanded : 10
+queueSize : 0
+maxQueueSize : 5
+Time: 526 microseconds
+-------------------------------
+
+Process finished with exit code 0
